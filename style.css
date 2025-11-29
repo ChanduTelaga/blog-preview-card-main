@@ -24,7 +24,7 @@ body {
 
 .card {
   width: 18rem;
-  height: 25rem;
+  height: 26rem;
   background-color: var(--white);
   border: 1px solid black;
   border-radius: 1rem;
@@ -117,7 +117,7 @@ body {
 @media screen and (max-width: 375px) {
   .card {
     width: 17rem;
-    height: 24rem;
+    height: 25rem;
     margin-left: 1.25rem;
     margin-right: 1.25rem;
   }
