@@ -71,19 +71,16 @@ body {
 .text a {
   text-decoration: none;
   cursor: pointer;
+  color: var(--gray-900);
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  font-weight: 800;
 }
 
 .text a:active,
 .text a:hover,
 .text a:focus {
   color: var(--yellow-color);
-}
-
-.text a {
-  color: var(--gray-900);
-  font-size: 1rem;
-  margin-bottom: 1rem;
-  font-weight: 800;
 }
 
 .text p {
@@ -121,8 +118,8 @@ body {
   .card {
     width: 17rem;
     height: 24rem;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
   }
 
   .card img {
